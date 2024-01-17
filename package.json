@@ -1,0 +1,23 @@
+{
+  "name": "assetmanagement",
+  "version": "1.0.0",
+  "description": "assetmanagement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanQiongC/AssetManagement.git"
+  },
+  "keywords": [
+    "asset",
+    "management"
+  ],
+  "author": "lanycsq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanQiongC/AssetManagement/issues"
+  },
+  "homepage": "https://github.com/shanQiongC/AssetManagement#readme"
+}
